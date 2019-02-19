@@ -1,6 +1,0 @@
-// body font size
-$bfSize: 14px;
-
-@function em($pixels, $context: $bfSize) {
-	@return ($pixels / $context) * 1em;
-}

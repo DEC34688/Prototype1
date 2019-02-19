@@ -1,0 +1,58 @@
+
+           
+     
+    
+        <nav class="xs-menus fundpress-menu">
+                <!-- <div class="nav-header">
+                                <div class="nav-toggle"></div>
+                                <a class="nav-brand nav-logo" href="index.html">
+                                    <img src="assets/images/logo.png" alt="">
+                                   
+                                </a>
+                            </div> -->
+                <!-- . END -->
+                <div class="nav-menus-wrapper">
+                  <div class="xs-logo-wraper">
+                    <a class="nav-brand xs-logo fundpress-logo-v1" href="index.html">
+                      <img src="assets/images/logo.png" alt="" style="height: 100%;">
+                    </a>
+                  </div>
+                  <ul class="nav-menu">
+                    <!-- <li><a href="">Account</a>
+            
+                    </li> -->
+                    <li><a id="prof" (click)="loadProfile();">Profile</a></li>
+                    <li><a id="camp" href="#">Campaign</a>
+                      <!-- <ul class="nav-dropdown">
+                        <li><a href="news-feed.html ">Create</a></li>
+                        <li><a href="news-feed-v2.html ">Manage</a></li>
+                        <li><a href="news-feed-v3.html">Communication</a></li>
+                      </ul> -->
+                    </li>
+                    <li><a id="comm" href="#">Community</a>
+                      <!-- <ul class="nav-dropdown">
+                        <li><a href="news-feed.html ">Create</a></li>
+                        <li><a href="news-feed-v2.html ">Manage</a></li>
+                        <li><a href="news-feed-v3.html">Communication</a></li>
+                      </ul> -->
+                    </li>
+                    <!-- <li><a href="contact.html">contact</a></li> -->
+            
+                  </ul>
+                  <div class="xs-navs-button">
+                    <ul class="xs-icon-with-text fundpress-icon-menu">
+                      <!-- <li><a href="https://localhost:44338/Identity/Account/Login" ><i class="fa fa-unlock-alt color-green"></i>Log In</a></li> -->
+                      <!-- <li><a href="" data-toggle="modal" data-target=".bd-example-modal-lg"><i class="fa fa-unlock-alt color-green"></i>Log In</a></li> -->
+            
+                      <li *ngIf="loggedin"><a (click)="loadAuth()" data-toggle="modal" data-target=".bd-example-modal-lg"><i class="fa fa-unlock-alt color-green"></i>Log
+                          In</a></li>
+                     <li *ngIf="!loggedin" class="d-block d-lg-none d-xl-block" (click)="loadProfile()"><a><img id="avatar" src="https://media.licdn.com/dms/image/C4D03AQEoK4Gkhiuf5A/profile-displayphoto-shrink_200_200/0?e=1555545600&v=beta&t=_XzZ-lxlO8pzAEyF3oMonLRTILjZdzZoROOfebssEk4" class="avatar">Keith Drummond</a></li>
+                    </ul>
+                  </div>
+                </div><!-- .nav-menus-wrapper END -->
+              </nav><!-- .xs-menus .fundpress-menu END -->
+              <!-- <div class="row">
+                            Makin App Goes Here
+                            <input type="button" (click)=""
+                        </div> -->
+            

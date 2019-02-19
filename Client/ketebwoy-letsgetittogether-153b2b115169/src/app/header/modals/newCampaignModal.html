@@ -1,0 +1,42 @@
+<!-- modal -->
+<div class="modal-content">
+   
+        <div class="container">
+         
+          
+            <ag-grid-angular 
+            style="width: 100%; height: 500px;" 
+            class="ag-theme-balham"
+            [rowData]="rowData" 
+            [columnDefs]="columnDefs">
+          </ag-grid-angular>
+          
+            
+                <div class="outer-div" >
+                      <div class=" inner-div" style="width: 100%;  margin: auto; ">
+                                    <br>
+                                    <label for="xs_user_firstName">Campaign Title:</label>
+                        <div class="xs-input-group-v2"  style="width: 100%;  margin: auto; ">
+                                
+                                <input type="text" name="search" id="xs_search" class="xs-input-control" placeholder="Example: https://www.amazon.com/University-Physics-2-William-Moebs..."  [(ngModel)]="searchText" style="text-align:center;">
+                              </div>
+                              <li class="d-block d-lg-none d-xl-block" (click)="startSearch()"><a href="#" class="xs-btn round-btn green-btn">Source URL</a></li>
+                            </div>
+                   </div>
+
+                   <div *ngIf="results" class="outer-div"  >
+                        <div class=" inner-div" style="width: 100%;  margin: auto; ">
+                                <h2>Results for {{searchText}}</h2>
+                                <ul class="products">
+                                        <li *ngFor="let product of products">                                           
+                                    <span class="badge">{{product.name}} <br> {{product.url}} <br> {{product.price}} </span>  <img src="{{product.imageURL}}" />
+                                  </li>
+                                </ul>
+                            </div>  
+
+                   </div>
+                
+                
+        </div>
+      </div>
+    

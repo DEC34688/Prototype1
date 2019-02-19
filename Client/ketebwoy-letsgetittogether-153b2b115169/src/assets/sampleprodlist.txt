@@ -1,0 +1,1268 @@
+{
+  "code": "OK",
+  "offset": 0,
+  "results_count": 10,
+  "results": [
+    {
+      "manufacturer": "Apple",
+      "sem3_id": "5sMLz5bJKqm8e2MkwqgqeQ",
+      "length": "137.92",
+      "mpn": "IPH6128GBGRY",
+      "category": "Unlocked Phones",
+      "color": "Space Grey",
+      "description": "Apple iPhone 6 smartphone was launched in Septembe... (visit site URLs for full description)",
+      "weight": "127005.86",
+      "width": "67.06",
+      "updated_at": 1542131028,
+      "sitedetails": [
+        {
+          "url": "http://www.walmart.com/ip/49230880",
+          "recentoffers_count": 0,
+          "latestoffers": [
+            {
+              "price": "355.00",
+              "seller": "Walmart.com",
+              "id": "77QhslOrg0YMscQSAsYuAC",
+              "lastrecorded_at": 1505044300,
+              "availability": "Not Available",
+              "currency": "USD",
+              "firstrecorded_at": 1499535300,
+              "isactive": 0
+            },
+            {
+              "lastrecorded_at": 1499154800,
+              "availability": "Available",
+              "currency": "USD",
+              "firstrecorded_at": 1494352000,
+              "price": "344.80",
+              "seller": "Tech Comm",
+              "id": "5bWOKphtsO6wMO4U0M6m6A",
+              "isactive": 0
+            }
+          ],
+          "sku": "49230880",
+          "name": "walmart.com"
+        },
+        {
+          "latestoffers": [
+            {
+              "id": "6vGyoR2sUauwGYMa0kw8eE",
+              "condition": "new",
+              "firstrecorded_at": 1542131000,
+              "currency": "USD",
+              "lastrecorded_at": 1542131000,
+              "seller": "BIP-24",
+              "price": "495.00",
+              "availability": "Available",
+              "isactive": 1
+            },
+            {
+              "availability": "Available",
+              "seller": "Networkstore",
+              "price": "169.97",
+              "lastrecorded_at": 1542131000,
+              "firstrecorded_at": 1540409600,
+              "currency": "USD",
+              "condition": "used - acceptable",
+              "id": "0w0dHs3TnuYKAk0uOYagIC",
+              "isactive": 1
+            },
+            {
+              "lastrecorded_at": 1542131000,
+              "currency": "USD",
+              "firstrecorded_at": 1528283500,
+              "condition": "used - good",
+              "id": "3DLE0i7QnIy2GgkwS8E4yS",
+              "availability": "Available",
+              "seller": "Reliant Cellular",
+              "price": "307.97",
+              "isactive": 1
+            }
+          ],
+          "sku": "B00O4WU4G0",
+          "name": "amazon.com",
+          "url": "https://www.amazon.com/dp/B00O4WU4G0",
+          "recentoffers_count": 3
+        }
+      ],
+      "features": {
+        "Screen Size": "4.7\"",
+        "Condition": "Refurbished",
+        "Talk time": "Up to 24 h",
+        "Front-Facing Camera Megapixels": "1.2 Megapixels",
+        "Has Touchscreen": "Y",
+        "blob": "Apple iPhone 6 128GB Gray Unlocked 4G LTE iOS Smartphone",
+        "Cellular Network Technology": "GSM",
+        "Cell Phone Type": "Certified Pre-Owned Phones",
+        "WLAN": "802.11a/b/g/n/ac",
+        "Resolution": "750 x 1334",
+        "Assembled Product Dimensions (L x W x H)": "5.44 x 2.64 x 0.27 Inches",
+        "Standby Time": "100 Hours",
+        "Features": "Music Player, Full Web Browsers, GPS, Bluetooth, Dual Band, Camera, Wi-fi Ready",
+        "Battery Life": "384 hours",
+        "Cell Phone Service Provider": "GSM UNLOCKED",
+        "Contained Battery Type": "Lithium Ion",
+        "Battery": "Lithium-ion",
+        "Connector Type": "1 x Apple Lightning Connector, 1 x Headphone",
+        "Standby time": "Up to 384 h",
+        "Mobile Operating System": "Apple iOS",
+        "Has Flash": "Y",
+        "Number of Megapixels": "8 Megapixel",
+        "Operating System": "Apple iOS",
+        "Has Bluetooth": "Y",
+        "Rear-Facing Camera Megapixels": "8 Megapixels",
+        "Talk Time": "24 hours"
+      },
+      "variation_id": "11VTqC3Xo2KwQ4OsO40OyaeA",
+      "model": "IPH6 128GB GREY, iPhone 6",
+      "images": [
+        "http://sem3-idn.s3-website-us-east-1.amazonaws.com/2e00d68a7329fa2c6ab7a63e12f861f8,0.jpg"
+      ],
+      "name": "Refurbished Apple iPhone 6 128GB GSM Smartphone (Unlocked)",
+      "price": "495.00",
+      "cat_id": "9359",
+      "images_total": 1,
+      "created_at": 1472736770,
+      "height": "7.11",
+      "brand": "Iphone",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "messages": [],
+      "gtins": []
+    },
+    {
+      "brand": "Apple",
+      "price": "550.00",
+      "images_total": 1,
+      "size": "64 GB",
+      "width": "77.72",
+      "name": "Apple iPhone 6 Plus 64 GB AT&T, Space Gray",
+      "weight": "172365.10",
+      "category": "Unlocked Phones",
+      "sitedetails": [
+        {
+          "url": "https://www.amazon.com/dp/B00NK6JC9Q",
+          "sku": "B00NK6JC9Q",
+          "recentoffers_count": 1,
+          "name": "amazon.com",
+          "latestoffers": [
+            {
+              "availability": "Available [BBX: Buy Box][FBA: Fulfilled by Amazon]",
+              "currency": "USD",
+              "condition": "new",
+              "lastrecorded_at": 1542856400,
+              "price": "550.00",
+              "id": "0JPdObRSjqaW0WuqSWiqq6",
+              "firstrecorded_at": 1542856400,
+              "seller": "Simply Mac Inc.",
+              "isactive": 1
+            },
+            {
+              "seller": "GamePartyUS",
+              "availability": "Available [BBX: Buy Box][FBA: Fulfilled by Amazon]",
+              "currency": "USD",
+              "condition": "new",
+              "id": "00eMaIFsX6ZqeQ0UAqcoqe",
+              "lastrecorded_at": 1541709700,
+              "price": "549.00",
+              "firstrecorded_at": 1540137000,
+              "isactive": 0
+            },
+            {
+              "price": "443.00",
+              "lastrecorded_at": 1540820400,
+              "id": "5edz36EhE06KGOMwiM2kWE",
+              "firstrecorded_at": 1540820400,
+              "availability": "Available [BBX: Buy Box]",
+              "condition": "new",
+              "currency": "USD",
+              "seller": "OCG-Buys",
+              "isactive": 0
+            }
+          ]
+        },
+        {
+          "sku": "8285356",
+          "recentoffers_count": 0,
+          "name": "frys.com",
+          "latestoffers": [
+            {
+              "seller": "Frys",
+              "firstrecorded_at": 1489374700,
+              "id": "3LL90KOdXc0UGMqyIqOKEC",
+              "price": "349.99",
+              "lastrecorded_at": 1489374700,
+              "availability": "Not Available Online for Shipping",
+              "currency": "USD",
+              "isactive": 0
+            },
+            {
+              "seller": "Frys",
+              "availability": "Not Available Online for Shipping",
+              "currency": "USD",
+              "lastrecorded_at": 1486194000,
+              "price": "749.99",
+              "id": "7l1Y0B51gOSGYKca8k0Swy",
+              "firstrecorded_at": 1483956900,
+              "isactive": 0
+            },
+            {
+              "seller": "Frys",
+              "currency": "USD",
+              "availability": "Not Available Online for Shipping",
+              "price": "599.00",
+              "lastrecorded_at": 1483167100,
+              "id": "2nJWQolEUa88IKeq0EoISg",
+              "firstrecorded_at": 1475096100,
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.frys.com/product/8285356"
+        },
+        {
+          "recentoffers_count": 0,
+          "sku": "287491154",
+          "url": "http://www.rakuten.com/prod/287491154.html",
+          "latestoffers": [
+            {
+              "seller": "iphoneduck",
+              "availability": "Available",
+              "condition": "Used-Acceptable",
+              "currency": "USD",
+              "id": "0W3Y4o1CuycwES6Wyw6Uai",
+              "shipping": "699",
+              "price": "380.99",
+              "lastrecorded_at": 1478288900,
+              "firstrecorded_at": 1478288900,
+              "isactive": 0
+            }
+          ],
+          "name": "rakuten.com"
+        }
+      ],
+      "color": "Space Gray",
+      "ean": "0885909971312",
+      "images": [
+        "http://sem3-idn.s3-website-us-east-1.amazonaws.com/0b6e812c32568111b47136e0ef11f74a,0.jpg"
+      ],
+      "updated_at": 1542856416,
+      "created_at": 1413454010,
+      "length": "157.99",
+      "mpn": "iPhone 6 Plus 64GB",
+      "features": {
+        "blob": "5.5-inch (diagonal) LED-backlit widescreen Multi-Touch display with IPS technology; 8-megapixel iSight camera with Optical Image Stabilization; A8 chip with 64-bit architecture. M8 motion coprocessor; 1080p HD video recording (30 fps or 60 fps); Apple Pay - Pay with your iPhone using Touch ID in stores and in apps"
+      },
+      "description": "iPhone 6 Plus, 64 GB, Space Gray. Originally from ... (visit site URLs for full description)",
+      "upc": "885909971312",
+      "variation_id": "1vgcfi1Gngyk8GUk4OE8E4",
+      "manufacturer": "Apple",
+      "height": "7.11",
+      "sem3_id": "5TLZ8LHxg028YGeECEAsuw",
+      "cat_id": "9359",
+      "model": "A1522",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "messages": [],
+      "gtins": [
+        "00885909971312"
+      ]
+    },
+    {
+      "ean": "0635753494617",
+      "description": "Available in silver, gold, and space gray, iPhone ... (visit site URLs for full description)",
+      "category": "Unlocked Phones",
+      "images_total": 1,
+      "length": "157.99",
+      "model": "IPH6P 128GB GOLD, iPhone 6 Plus",
+      "sitedetails": [
+        {
+          "url": "http://www.walmart.com/ip/49230896",
+          "sku": "49230896",
+          "recentoffers_count": 0,
+          "name": "walmart.com",
+          "latestoffers": [
+            {
+              "id": "1zC7QNSYA08syaCuEuQgui",
+              "lastrecorded_at": 1542967300,
+              "seller": "Walmart.com",
+              "currency": "USD",
+              "firstrecorded_at": 1542411500,
+              "price": "405.00",
+              "availability": "Not Available",
+              "isactive": 0
+            },
+            {
+              "shipping": "0",
+              "price": "405.00",
+              "seller": "Walmart",
+              "availability": "Not Available",
+              "firstrecorded_at": 1528921900,
+              "currency": "USD",
+              "lastrecorded_at": 1529352400,
+              "id": "0Uom4QOarLqGmeAo4qycQ4",
+              "isactive": 0
+            },
+            {
+              "price": "81.34",
+              "shipping": "0",
+              "currency": "USD",
+              "firstrecorded_at": 1523289900,
+              "availability": "Not Available",
+              "seller": "Walmart",
+              "lastrecorded_at": 1528738600,
+              "id": "5LNJkvayZcsaiMio2cow2w",
+              "isactive": 0
+            }
+          ]
+        },
+        {
+          "recentoffers_count": 1,
+          "name": "amazon.com",
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1542967300,
+              "id": "3eQUYT0rtA4aKq2a8u48S6",
+              "condition": "new",
+              "price": "987.00",
+              "shipping": "499",
+              "currency": "USD",
+              "firstrecorded_at": 1516113700,
+              "availability": "Available",
+              "seller": "CARO PORTO",
+              "isactive": 1
+            },
+            {
+              "seller": "DealzForever",
+              "availability": "Available [BBX: Buy Box][APR: Shipping with Amazon Prime]",
+              "firstrecorded_at": 1520503000,
+              "currency": "USD",
+              "price": "585.00",
+              "condition": "new",
+              "id": "6x25w2kBpuYwIMEoSYIcWS",
+              "lastrecorded_at": 1521017200,
+              "isactive": 0
+            },
+            {
+              "availability": "Available [FPO: Front Page Offer]",
+              "seller": "MASTERTRONICS (LIGHTNING FAST SERVICE & SHIPPING)",
+              "currency": "USD",
+              "firstrecorded_at": 1513899200,
+              "condition": "new",
+              "price": "1049.10",
+              "id": "5AgXfxxwyW8ECUAUUC4kG6",
+              "lastrecorded_at": 1520844800,
+              "isactive": 0
+            }
+          ],
+          "url": "https://www.amazon.com/dp/B00VIQA2GC",
+          "sku": "B00VIQA2GC"
+        }
+      ],
+      "features": {
+        "Condition": "Refurbished",
+        "Model Name": "iPhone 6 Plus",
+        "Cell Phone Type": "Unlocked Cell Phones",
+        "blob": "MP3/WAV player; Siri; Voice over LTE; 3G network; Bluetooth v.4.0 technology; microUSB 2.0 port; WLAN - 802.11a/b/g/n/ac; iOS 8; Rear 8-megapixel iSight camera with autofocus; 1.2-megapixel FaceTime camera; 1080p Full HD video capable; A8 chip with M8 motion coprocessor; Assisted GPS; iCloud Drive; Control Center; Built-in apps; Talk time - up to 24 h; Standby time - up to 384 h; Battery - lithium-ion; 5.5\" Retina HD touchscreen display; Resolution - 1080 x 1920; SMS and MMS; Email; Instant messaging; Battery; USB cable; Charger",
+        "Cell Phone Service Provider": "Unlocked",
+        "Screen Size": "5.5\\",
+        "Mobile Operating System": "Apple iOS",
+        "Features": "Music Player Full Web Browsers GPS Bluetooth Dual Band Camera Wi-fi Ready",
+        "Cellular Network Technology": "GSM",
+        "Assembled Product Dimensions (L x W x H)": "6.22 x 3.06 x 0.28 Inches"
+      },
+      "manufacturer": "Apple",
+      "name": "Refurbished Apple iPhone 6 Plus 128GB GSM Smartphone (Unlocked)",
+      "images": [
+        "http://sem3-idn.s3-website-us-east-1.amazonaws.com/04a29350c86afe88b40fd34dc440e0d9,0.jpg"
+      ],
+      "variation_id": "12iCE7Fhh0SmSMMAoc4ooE",
+      "updated_at": 1542967360,
+      "upc": "635753494617",
+      "cat_id": "9359",
+      "height": "77.72",
+      "created_at": 1472601925,
+      "mpn": "IPH6P128GBGLD",
+      "brand": "Iphone",
+      "width": "7.11",
+      "weight": "172365.10",
+      "sem3_id": "42tf6maIeuWw0q00McIcQO",
+      "price": "405.00",
+      "color": "Gold",
+      "variation_secondaryids": [
+        "5ixEKQ9WymG0Ci4S0KYgEK",
+        "1znbvsTNfcGgoggwE0uoUY"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "messages": [],
+      "gtins": [
+        "00635753494617"
+      ]
+    },
+    {
+      "upc": "888462064293",
+      "sitedetails": [
+        {
+          "sku": "B00NPY1FBQ",
+          "name": "amazon.com",
+          "url": "https://www.amazon.com/dp/B00NPY1FBQ",
+          "recentoffers_count": 1,
+          "latestoffers": [
+            {
+              "seller": "Right Coast",
+              "lastrecorded_at": 1541749600,
+              "id": "5QoemO7MbueEeYgGCcsg0e",
+              "condition": "new",
+              "availability": "Available",
+              "currency": "USD",
+              "firstrecorded_at": 1541749600,
+              "price": "450.00",
+              "isactive": 1
+            },
+            {
+              "availability": "Available",
+              "seller": "OCG-Buys",
+              "lastrecorded_at": 1541365300,
+              "firstrecorded_at": 1541041200,
+              "currency": "USD",
+              "price": "320.00",
+              "condition": "new",
+              "id": "0Jbjklzt9IeE8SUMiuSUQI",
+              "isactive": 0
+            },
+            {
+              "availability": "Available",
+              "seller": "HTOWNGADGETS",
+              "currency": "USD",
+              "firstrecorded_at": 1532353300,
+              "lastrecorded_at": 1540871600,
+              "id": "3mtyibA052oq6OKgUI2CEE",
+              "price": "179.95",
+              "condition": "used - very good",
+              "isactive": 0
+            }
+          ]
+        }
+      ],
+      "cat_id": "9359",
+      "images_total": 1,
+      "height": "6.86",
+      "updated_at": 1541749694,
+      "color": "Silver",
+      "length": "138.18",
+      "model": "IPHONE_6",
+      "features": {
+        "Item model number": "IPHONE 6",
+        "blob": "4.7-inch (diagonal) LED-backlit widescreen MultiTouch display with IPS technology, 1334-by-750-pixel resolution at 326 ppi, Dual-domain pixels for wider viewing angles; Apple Pay. Pay with your iPhone using Touch ID in stores and in apps. Nano-SIM; New 8-megapixel iSight camera with 1.5 pixels, Backside illumination sensor, Auto image stabilization, Improved face detection, Panorama (up to 43 megapixels); Audio formats supported - AAC (8 to 320 Kbps), Protected AAC (from iTunes Store), HE-AAC, MP3 (8 to 320 Kbps), MP3 VBR, Audible (formats 2, 3, 4, Audible Enhanced Audio, AAX, and AAX+), Apple Lossless, AIFF, and WAV User-configurable maximum volume limit; Built-in rechargeable, lithiumion battery. Talk time - Up to 14 hours on 3G, Internet use - Up to 10 hours on 3G, up to 10 hours on LTE, up to 11 hours on WiFi. Audio playback - Up to 50 hours",
+        "Item Weight": "4.5 ounces",
+        "Batteries": "1 A batteries required. (included)",
+        "Shipping Weight": "10.4 ounces"
+      },
+      "weight": "127005.86",
+      "name": "Apple iPhone 6 64GB LTE Unlocked Smartphone - Silver",
+      "width": "67.06",
+      "category": "Unlocked Phones",
+      "ean": "0888462064293",
+      "mpn": "IPHONE 6",
+      "size": "64GB",
+      "created_at": 1477683764,
+      "manufacturer": "Apple",
+      "sem3_id": "1jMDYEG3Xs2sek4cK4MwME",
+      "description": "The iPhone is Unlocked for any GSM in any country ... (visit site URLs for full description)",
+      "images": [
+        "http://sem3-idn.s3-website-us-east-1.amazonaws.com/6ca8caba3a3237a07460d9820d444f82,0.jpg"
+      ],
+      "price": "450.00",
+      "brand": "Apple",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "messages": [],
+      "gtins": [
+        "00888462064293"
+      ]
+    },
+    {
+      "brand": "Apple",
+      "price": "265.00",
+      "images_total": 1,
+      "width": "67.06",
+      "size": "16 GB",
+      "name": "Apple iPhone 6 Unlocked Cellphone, 16GB, G",
+      "weight": "127005.86",
+      "category": "Unlocked Phones",
+      "sitedetails": [
+        {
+          "name": "amazon.com",
+          "latestoffers": [
+            {
+              "seller": "BREED",
+              "currency": "USD",
+              "availability": "Available",
+              "condition": "used - very good",
+              "firstrecorded_at": 1540602700,
+              "price": "159.99",
+              "lastrecorded_at": 1540816700,
+              "id": "6e9zBQdrqCosKYMiMcKwoI",
+              "isactive": 0
+            },
+            {
+              "seller": "BREED",
+              "currency": "USD",
+              "availability": "Available",
+              "condition": "refurbished",
+              "lastrecorded_at": 1540816700,
+              "price": "169.99",
+              "id": "5GP6KqpXKaAimIsUaSeKUm",
+              "firstrecorded_at": 1539843100,
+              "isactive": 0
+            },
+            {
+              "condition": "used - like new",
+              "availability": "Available",
+              "currency": "USD",
+              "lastrecorded_at": 1540816700,
+              "price": "184.99",
+              "id": "1ikntRSEjUMU0iksYWIKi2",
+              "firstrecorded_at": 1534882400,
+              "seller": "BREED",
+              "isactive": 0
+            }
+          ],
+          "sku": "B00NQGP3SO",
+          "recentoffers_count": 0,
+          "url": "http://www.amazon.com/dp/B00NQGP3SO"
+        },
+        {
+          "url": "https://www.amazon.com/dp/B00NQB4E1Q",
+          "recentoffers_count": 3,
+          "sku": "B00NQB4E1Q",
+          "latestoffers": [
+            {
+              "price": "265.00",
+              "lastrecorded_at": 1542948200,
+              "seller": "OCG-Buys",
+              "id": "0iBQgvW5sYqOmssO4WcgqQ",
+              "firstrecorded_at": 1542932700,
+              "condition": "new",
+              "currency": "USD",
+              "availability": "Available",
+              "isactive": 1
+            },
+            {
+              "seller": "Deal King (we record S/N)",
+              "availability": "Available",
+              "condition": "new",
+              "currency": "USD",
+              "firstrecorded_at": 1539727600,
+              "id": "7eSokDyHNAes4qyEw8iAUk",
+              "price": "349.00",
+              "lastrecorded_at": 1542948200,
+              "isactive": 1
+            },
+            {
+              "price": "450.00",
+              "lastrecorded_at": 1542948200,
+              "condition": "new",
+              "availability": "Available",
+              "currency": "USD",
+              "id": "2LfgDDvZOSySSsmQocemKc",
+              "firstrecorded_at": 1541749600,
+              "seller": "Right Coast",
+              "isactive": 1
+            }
+          ],
+          "name": "amazon.com"
+        },
+        {
+          "latestoffers": [
+            {
+              "seller": "Frys",
+              "lastrecorded_at": 1477668900,
+              "price": "449.00",
+              "id": "3FihdYDOYi6EA0oicGO8ik",
+              "firstrecorded_at": 1475651100,
+              "currency": "USD",
+              "availability": "Available",
+              "isactive": 0
+            },
+            {
+              "currency": "USD",
+              "availability": "Available",
+              "id": "5twD3PtpluEOQq8SKeSEGW",
+              "lastrecorded_at": 1474450100,
+              "price": "549.99",
+              "firstrecorded_at": 1456563200,
+              "seller": "Frys",
+              "isactive": 0
+            },
+            {
+              "seller": "Frys",
+              "availability": "Available for In-Store Pickup Only",
+              "currency": "USD",
+              "price": "499.99",
+              "lastrecorded_at": 1456476300,
+              "id": "1NDSDNB4o0AAy2EG0OgkKo",
+              "firstrecorded_at": 1450356400,
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.frys.com/product/8297296",
+          "name": "frys.com",
+          "recentoffers_count": 0,
+          "sku": "8297296"
+        },
+        {
+          "url": "http://www.amazon.com/dp/B0118WMQSW",
+          "recentoffers_count": 0,
+          "sku": "B0118WMQSW",
+          "latestoffers": [
+            {
+              "seller": "Mio6",
+              "availability": "Available",
+              "condition": "New",
+              "currency": "USD",
+              "firstrecorded_at": 1442994900,
+              "shipping": "549",
+              "id": "2AsUIKMXqK0OMqyOUQI6oE",
+              "lastrecorded_at": 1446222000,
+              "price": "590.00",
+              "isactive": 0
+            },
+            {
+              "availability": "Available",
+              "currency": "USD",
+              "condition": "New",
+              "lastrecorded_at": 1446222000,
+              "price": "13.99",
+              "id": "3C87ITBTrcMOYEu0M4c0oM",
+              "firstrecorded_at": 1445642500,
+              "seller": "Amazon.com",
+              "isactive": 0
+            },
+            {
+              "seller": "E.G.I.SALES",
+              "condition": "New",
+              "currency": "USD",
+              "availability": "Available",
+              "firstrecorded_at": 1445642500,
+              "shipping": "1045",
+              "id": "2PuExHv0IGaIeckSso8kkm",
+              "price": "539.99",
+              "lastrecorded_at": 1445642500,
+              "isactive": 0
+            }
+          ],
+          "name": "amazon.com"
+        },
+        {
+          "latestoffers": [
+            {
+              "seller": "Overstock",
+              "availability": "Available",
+              "currency": "USD",
+              "firstrecorded_at": 1446710800,
+              "lastrecorded_at": 1446710800,
+              "price": "809.99",
+              "id": "0eWIRU7u1x2Uyw0aeCEasU",
+              "isactive": 0
+            },
+            {
+              "id": "44igm5LiaWQMqmAUAMioAM",
+              "lastrecorded_at": 1446624000,
+              "price": "807.99",
+              "firstrecorded_at": 1445932700,
+              "availability": "Available",
+              "currency": "USD",
+              "seller": "Overstock",
+              "isactive": 0
+            },
+            {
+              "firstrecorded_at": 1445672800,
+              "id": "0G3UQRoD1TUkQWEO4Gs62O",
+              "lastrecorded_at": 1445893500,
+              "price": "811.99",
+              "currency": "USD",
+              "availability": "Available",
+              "seller": "Overstock",
+              "isactive": 0
+            }
+          ],
+          "url": "http://www.overstock.com/Electronics/Apple-iPhone-6-16GB-4G-LTE-Unlocked-GSM-Smartphone-Gold/10175478/product.html",
+          "name": "overstock.com",
+          "recentoffers_count": 0,
+          "sku": "10175478_3419263"
+        },
+        {
+          "name": "rakuten.com",
+          "url": "http://www.rakuten.com/prod/287616313.html",
+          "latestoffers": [
+            {
+              "id": "1EiOvHsXM2q4qY4GMYuGOE",
+              "price": "369.00",
+              "lastrecorded_at": 1485982900,
+              "firstrecorded_at": 1478288000,
+              "availability": "Available",
+              "currency": "USD",
+              "condition": "Used-Like New",
+              "seller": "CircuitStar, Inc",
+              "isactive": 0
+            },
+            {
+              "firstrecorded_at": 1478746600,
+              "price": "384.95",
+              "lastrecorded_at": 1479366500,
+              "id": "29BYAH8c6GQuiiYoOqeE46",
+              "availability": "Available",
+              "condition": "Refurbished",
+              "currency": "USD",
+              "seller": "GEEKNEXT",
+              "isactive": 0
+            },
+            {
+              "seller": "TradeBuy",
+              "firstrecorded_at": 1478746600,
+              "lastrecorded_at": 1478746600,
+              "price": "576.88",
+              "id": "61gLmudSgwmEcqO8C8OIki",
+              "condition": "New",
+              "availability": "Available",
+              "currency": "USD",
+              "isactive": 0
+            }
+          ],
+          "sku": "287616313",
+          "recentoffers_count": 0
+        }
+      ],
+      "ean": "0885909950942",
+      "color": "Gold",
+      "images": [
+        "http://sem3-idn.s3-website-us-east-1.amazonaws.com/3739c679f6d14155387abad06d9e8a68,0.jpg"
+      ],
+      "created_at": 1413425605,
+      "updated_at": 1542948291,
+      "length": "138.18",
+      "mpn": "MG3L2CL/A",
+      "features": {
+        "Shipping Weight": "13.6 ounces",
+        "Item Weight": "4.5 ounces",
+        "Item model number": "6",
+        "blob": "Apple iPhone 6, Gold, 16 GB (Unlocked); 2G - GSM 850/900/1800/1900, 3G - HSDPA 850/900/1700/1900/2100, 4G - LTE 700/800/850/900/1700/1800/1900/2100/2600 (will not work with CDMA carriers like Verizon and Sprint); 4.7\" LED-backlit IPS LCD Multi-Touchscreen w/ Shatter-Proof Glass and Oleophobic Coating; iOS 8, Dual-Core 1.4 GHz Cyclone (ARM v8-based) Processor, Chipset - Apple A8, PowerVR GX6650 (hexa-core graphics) Graphics; 8 Megapixel Camera (3264 x 2448 pixels) w/ Autofocus, dual-LED (dual tone) Flash + Front-Facing 1.2 Megapixel Camera, 720p, burst, HDR; Internal Memory - 16GB, 1GB RAM; 16 GB Storage Capacity (Estimated Free Space 12.2 GB)",
+        "Batteries": "Lithium Metal batteries required."
+      },
+      "upc": "885909950942",
+      "description": "Apple iPhone 6 16GB Gold (Verizon Wireless)",
+      "height": "6.86",
+      "manufacturer": "Apple",
+      "variation_id": "1YOWyAZxC0qqk6EaOUesM2",
+      "sem3_id": "2tdOWV19s8A26y2i0mOCGg",
+      "model": "Apple iPhone 6 - 4.7\" - 16 GB - Gold",
+      "cat_id": "9359",
+      "variation_secondaryids": [
+        "64vHPvxYWGQKyOUC4YG6m4",
+        "39wNPqiKaeQEmAkqeeW2mc"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "messages": [],
+      "gtins": [
+        "00885909950942"
+      ]
+    },
+    {
+      "images_total": 1,
+      "manufacturer": "Apple",
+      "ean": "0885909971299",
+      "variation_id": "1vgcfi1Gngyk8GUk4OE8E4",
+      "weight": "172365.10",
+      "model": "iPhone 6 Plus",
+      "name": "Apple iPhone 6 Plus 128 GB AT&T, Silver",
+      "height": "7.11",
+      "mpn": "MGAQ2LL/A",
+      "price": "399.95",
+      "color": "Silver",
+      "created_at": 1413454010,
+      "length": "157.99",
+      "sem3_id": "4AhyWrP65Qc6yQoCoCO44M",
+      "sitedetails": [
+        {
+          "recentoffers_count": 1,
+          "sku": "B00NK6JCAK",
+          "name": "amazon.com",
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1542949600,
+              "id": "0vORFTwaOwoOw46Uyuk604",
+              "seller": "Rally Bargains Inc",
+              "condition": "new",
+              "availability": "Available [BBX: Buy Box][FBA: Fulfilled by Amazon]",
+              "price": "399.95",
+              "currency": "USD",
+              "lastrecorded_at": 1542949600,
+              "isactive": 1
+            },
+            {
+              "seller": "Dream-TechElectronics",
+              "firstrecorded_at": 1541623300,
+              "id": "5iX8qnZdewo40cEQiSYOEy",
+              "shipping": "549",
+              "condition": "new",
+              "price": "808.88",
+              "currency": "USD",
+              "availability": "Available",
+              "lastrecorded_at": 1542837100,
+              "isactive": 0
+            },
+            {
+              "id": "2LdRuNPpdEgEqA46iCSi88",
+              "firstrecorded_at": 1542609000,
+              "seller": "iHeaven",
+              "condition": "new",
+              "availability": "Available",
+              "currency": "USD",
+              "price": "749.00",
+              "lastrecorded_at": 1542837100,
+              "isactive": 0
+            }
+          ],
+          "url": "https://www.amazon.com/dp/B00NK6JCAK"
+        },
+        {
+          "recentoffers_count": 0,
+          "sku": "8285276",
+          "url": "http://www.frys.com/product/8285276",
+          "latestoffers": [
+            {
+              "seller": "Frys",
+              "id": "5hX308yi5Qy2iM2UKYOIoG",
+              "firstrecorded_at": 1488173200,
+              "currency": "USD",
+              "price": "292.42",
+              "availability": "Not Available Online for Shipping",
+              "lastrecorded_at": 1488173200,
+              "isactive": 0
+            },
+            {
+              "seller": "Frys",
+              "id": "04Jryb2ODdYGE48EWeo6W2",
+              "firstrecorded_at": 1487341200,
+              "currency": "USD",
+              "price": "351.85",
+              "availability": "Not Available Online for Shipping",
+              "lastrecorded_at": 1487605600,
+              "isactive": 0
+            },
+            {
+              "seller": "Frys",
+              "id": "3DB4kjvuE4WiI8KkeCIWYU",
+              "firstrecorded_at": 1486195000,
+              "lastrecorded_at": 1486195000,
+              "currency": "USD",
+              "price": "411.28",
+              "availability": "Not Available Online for Shipping",
+              "isactive": 0
+            }
+          ],
+          "name": "frys.com"
+        },
+        {
+          "recentoffers_count": 0,
+          "sku": "24004535_207936768",
+          "name": "target.com",
+          "latestoffers": [],
+          "url": "http://www.target.com/p/iphone-6-plus-at-t/-/A-24004535"
+        }
+      ],
+      "updated_at": 1542949695,
+      "upc": "885909971299",
+      "description": "Display . Retina HD display 1920-by-1080-pixel res... (visit site URLs for full description)",
+      "cat_id": "9359",
+      "size": "128 GB",
+      "brand": "apple",
+      "features": {
+        "blob": "5.5-inch (diagonal) LED-backlit widescreen Multi-Touch display with IPS technology; 8-megapixel iSight camera with Optical Image Stabilization; A8 chip with 64-bit architecture. M8 motion coprocessor; 1080p HD video recording (30 fps or 60 fps); Apple Pay - Pay with your iPhone using Touch ID in stores and in apps",
+        "Item Weight": "6.1 ounces",
+        "Batteries": "1 Lithium ion batteries required. (included)",
+        "Item model number": "iPhone 6 Plus 128GB",
+        "Shipping Weight": "1.01 pounds ("
+      },
+      "width": "77.72",
+      "images": [
+        "http://sem3-idn.s3-website-us-east-1.amazonaws.com/286f51f6be0ddab6862339a6941fe9b6,0.jpg"
+      ],
+      "category": "Unlocked Phones",
+      "variation_secondaryids": [
+        "5DhD1x72LYqYYWuU6qMMQo"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "messages": [],
+      "gtins": [
+        "00885909971299"
+      ]
+    },
+    {
+      "brand": "Apple",
+      "images_total": 1,
+      "width": "78.74",
+      "features": {
+        "Shipping Weight": "1.01 pounds (",
+        "Item model number": "iPhone 6 Plus 128GB",
+        "blob": "5.5-inch (diagonal) LED-backlit widescreen Multi-Touch display with IPS technology; 8-megapixel iSight camera with Optical Image Stabilization; A8 chip with 64-bit architecture. M8 motion coprocessor; 1080p HD video recording (30 fps or 60 fps); Apple Pay - Pay with your iPhone using Touch ID in stores and in apps",
+        "Item Weight": "6.1 ounces",
+        "Batteries": "1 Lithium ion batteries required. (included)"
+      },
+      "model": "iPhone 6 Plus 128GB",
+      "name": "Apple iPhone 6 Plus 128 GB AT&T, Silver",
+      "sem3_id": "1o6JiUyuai8EGOoWYgCIqm",
+      "updated_at": 1542960411,
+      "height": "7.62",
+      "category": "Cases",
+      "sitedetails": [
+        {
+          "latestoffers": [
+            {
+              "id": "7aktCFcvdA6am8Ck8AgsKI",
+              "currency": "USD",
+              "availability": "Available [BBX: Buy Box][FBA: Fulfilled by Amazon]",
+              "firstrecorded_at": 1542960400,
+              "seller": "Rally Bargains Inc",
+              "price": "399.95",
+              "condition": "new",
+              "lastrecorded_at": 1542960400,
+              "isactive": 1
+            },
+            {
+              "availability": "Available",
+              "currency": "USD",
+              "firstrecorded_at": 1541633000,
+              "id": "2QrZio5biyYU6EYsgC0a20",
+              "condition": "new",
+              "lastrecorded_at": 1542846900,
+              "shipping": "549",
+              "seller": "Dream-TechElectronics",
+              "price": "808.88",
+              "isactive": 0
+            },
+            {
+              "lastrecorded_at": 1542846900,
+              "condition": "new",
+              "price": "749.00",
+              "seller": "iHeaven",
+              "firstrecorded_at": 1542621000,
+              "availability": "Available",
+              "currency": "USD",
+              "id": "4qFiaggytyOaMqEQsWowg0",
+              "isactive": 0
+            }
+          ],
+          "url": "https://www.amazon.com/dp/B00Nk6JCAK",
+          "sku": "B00Nk6JCAK",
+          "recentoffers_count": 1,
+          "name": "amazon.com"
+        }
+      ],
+      "length": "157.48",
+      "images": [
+        "http://sem3-idn.s3-website-us-east-1.amazonaws.com/aa36e3ed74a619b7740f90df759e4bb7,0.jpg"
+      ],
+      "color": "Silver",
+      "description": "Display . Retina HD display 1920-by-1080-pixel res... (visit site URLs for full description)",
+      "cat_id": "23951",
+      "price": "399.95",
+      "created_at": 1529432410,
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "messages": [],
+      "gtins": []
+    },
+    {
+      "updated_at": 1540504806,
+      "features": {
+        "Batteries": "1 Lithium ion batteries required.",
+        "Shipping Weight": "12 ounces (",
+        "Item model number": "iPhone 6 128GB S ATT",
+        "blob": "Professionally inspected and tested to work and look like new, and backed by the 90-day Amazon Renewed Guarantee. Box and relevant accessories (no headphones included) may be generic.; This phone is locked to AT&T and cannot be unlocked for use on any other carrier. This phone may originate from an international partner of AT&T; 4.7-inch LED-backlit IPS LCD Multi-Touchscreen Shatter proof Glass, Oleophobic Coating iOS 8 (upgradable) 8 Megapixel Camera (3264 x 2448 pixels) w/ Autofocus, dual-LED (dual tone) Flash + Front-Facing 1.2 Megapixel Camera, 720p, burst, HDR; Dual-Core 1.4 GHz Cyclone (ARM v8-based) Processor, Chipset - Apple A8, PowerVR GX6650 (hexa-core graphics) Graphics; Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi hotspot, Bluetooth - v4.0, A2DP, USB - v2.0, GPS - with A-GPS, GLONASS",
+        "Item Weight": "4.5 ounces"
+      },
+      "cat_id": "9359",
+      "height": "66.04",
+      "description": "iPhone 6 isn't simply bigger, it's better in every... (visit site URLs for full description)",
+      "brand": "Apple",
+      "size": "128GB",
+      "price": "189.99",
+      "sem3_id": "7BUJYbJBSaKYw2YWEMw6qY",
+      "images_total": 1,
+      "width": "7.62",
+      "created_at": 1513676124,
+      "color": "Silver",
+      "name": "Apple iPhone 6, AT&T, 128GB - Silver (Refurbished)",
+      "category": "Unlocked Phones",
+      "sitedetails": [
+        {
+          "url": "https://www.amazon.com/dp/B01N8OVH7T",
+          "sku": "B01N8OVH7T",
+          "name": "amazon.com",
+          "latestoffers": [
+            {
+              "price": "189.99",
+              "id": "6V1VKrtM48Q4oeq62U6Sag",
+              "condition": "new",
+              "seller": "BuySPRY",
+              "availability": "Available [BBX: Buy Box]",
+              "currency": "USD",
+              "firstrecorded_at": 1540504800,
+              "lastrecorded_at": 1540504800,
+              "isactive": 1
+            },
+            {
+              "currency": "USD",
+              "firstrecorded_at": 1535566100,
+              "lastrecorded_at": 1535566100,
+              "condition": "new",
+              "seller": "Kanga Supply",
+              "availability": "Available [BBX: Buy Box]",
+              "price": "241.43",
+              "id": "6yCdilnZDMMI4G2meWoKgO",
+              "isactive": 0
+            },
+            {
+              "firstrecorded_at": 1532030800,
+              "lastrecorded_at": 1532030800,
+              "currency": "USD",
+              "price": "259.99",
+              "id": "4pJwJQu7x2EoSEcuOYeom6",
+              "availability": "Available [BBX: Buy Box]",
+              "seller": "BREED",
+              "condition": "new",
+              "isactive": 0
+            }
+          ],
+          "recentoffers_count": 1
+        }
+      ],
+      "length": "137.16",
+      "model": "iPhone 6 128GB S ATT",
+      "images": [
+        "http://sem3-idn.s3-website-us-east-1.amazonaws.com/72804a9563a6eefe41a4a093b442e7e8,0.jpg"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "messages": [],
+      "gtins": []
+    },
+    {
+      "cat_id": "4992",
+      "description": "Apple wasted no time at its Sept. event, by introd... (visit site URLs for full description)",
+      "category": "Computers & Accessories",
+      "images_total": 1,
+      "name": "Apple iPhone 6, GSM Unlocked, 128GB - Space Grey (Refurbished)",
+      "size": "128 GB",
+      "model": "iPhone 6",
+      "sem3_id": "3vgqdzGjg8q0uYyGGKK0K8",
+      "updated_at": 1541704279,
+      "images": [
+        "http://sem3-idn.s3-website-us-east-1.amazonaws.com/1d610223fb8f7156d57b0c82b4fd586e,0.jpg"
+      ],
+      "brand": "Apple",
+      "price": "299.00",
+      "created_at": 1523562566,
+      "sitedetails": [
+        {
+          "sku": "B07BKR66GP",
+          "recentoffers_count": 1,
+          "url": "https://www.amazon.com/dp/B07BKR66GP",
+          "latestoffers": [
+            {
+              "price": "299.00",
+              "lastrecorded_at": 1541704200,
+              "firstrecorded_at": 1541704200,
+              "id": "5QIUE40EpyOECU6Mcmog08",
+              "condition": "new",
+              "availability": "Available [BBX: Buy Box][FBA: Fulfilled by Amazon]",
+              "currency": "USD",
+              "seller": "SELLOUTDEALS",
+              "isactive": 1
+            },
+            {
+              "condition": "new",
+              "availability": "Available [BBX: Buy Box]",
+              "currency": "USD",
+              "seller": "EXCLUSIVE ELECTRONICS",
+              "price": "279.99",
+              "lastrecorded_at": 1534244700,
+              "firstrecorded_at": 1534244700,
+              "id": "50pJJyveWGKW488uWyWY6s",
+              "isactive": 0
+            },
+            {
+              "price": "279.99",
+              "lastrecorded_at": 1530302700,
+              "firstrecorded_at": 1530302700,
+              "id": "0a1vZJ1qF846KikUkMIcg0",
+              "condition": "certified refurbished",
+              "availability": "Available",
+              "currency": "USD",
+              "seller": "EXCLUSIVE ELECTRONICS",
+              "isactive": 0
+            }
+          ],
+          "name": "amazon.com"
+        }
+      ],
+      "features": {
+        "Shipping Weight": "10.4 ounces (",
+        "Item model number": "iPhone 6",
+        "blob": "Renewed products look and work like new. These pre-owned products have been inspected and tested by Amazon-qualified suppliers, which typically perform a full diagnostic test, replacement of any defective parts, and a thorough cleaning process. Wireless devices have batteries tested to have at least 80% capacity relative to new at the time of sale. Packaging, wall plug and charging cable may be generic (headphones not included). Wireless products on Amazon Renewed come with the 90 day Amazon Renewed Guarantee.; GSM Unlocked Phones are ONLY compatible with GSM carriers like AT&T and T-Mobile as well as other GSM networks around the world. They WILL NOT WORK with CDMA carriers like Sprint and Verizon (Search for \"Fully Unlocked iPhones\" for CDMA compatible iPhones).; 4.7-Inch (diagonal) LED-backlit widescreen Multi-Touch display with IPS technology; New 8-megapixel iSight Camera with 1.5 pixels",
+        "Package Dimensions": "6.4 x 3.7 x 2.1 inches",
+        "Item Weight": "10.4 ounces",
+        "Batteries": "1 Nonstandard Battery batteries required."
+      },
+      "color": "Space Grey",
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "messages": [],
+      "gtins": []
+    },
+    {
+      "sitedetails": [
+        {
+          "url": "http://www.walmart.com/ip/53970805",
+          "name": "walmart.com",
+          "recentoffers_count": 3,
+          "sku": "53970805",
+          "latestoffers": [
+            {
+              "firstrecorded_at": 1542326600,
+              "availability": "Available",
+              "currency": "USD",
+              "id": "4Y7uDzmh6Wc62G28sIK2wQ",
+              "price": "169.83",
+              "seller": "JemJem",
+              "lastrecorded_at": 1542326600,
+              "isactive": 1
+            },
+            {
+              "currency": "USD",
+              "firstrecorded_at": 1541270100,
+              "id": "5osXxyrdaKqUCk0uIIWGqg",
+              "price": "169.88",
+              "availability": "Available",
+              "seller": "iMacket",
+              "lastrecorded_at": 1542326600,
+              "isactive": 1
+            },
+            {
+              "id": "4ap9Fx63PMOmwKG4qUcM0K",
+              "price": "169.84",
+              "currency": "USD",
+              "availability": "Available",
+              "firstrecorded_at": 1542326600,
+              "lastrecorded_at": 1542326600,
+              "seller": "Walmart",
+              "isactive": 1
+            }
+          ]
+        },
+        {
+          "url": "http://www.target.com/p/unlocked-iphone-6-16gb-silver-certified-pre-owned/-/A-51242636",
+          "latestoffers": [
+            {
+              "id": "5LVQ9oj10KQeqAiEs84CoW",
+              "price": "229.99",
+              "currency": "USD",
+              "firstrecorded_at": 1527144500,
+              "availability": "Available",
+              "seller": "Target",
+              "lastrecorded_at": 1527484300,
+              "isactive": 0
+            },
+            {
+              "availability": "Available",
+              "firstrecorded_at": 1520437800,
+              "currency": "USD",
+              "id": "0iaMaeCzAKeYs8q6sSiqGg",
+              "price": "259.99",
+              "lastrecorded_at": 1526805900,
+              "seller": "Target",
+              "isactive": 0
+            },
+            {
+              "id": "1JPYxQhdF8Qik8EE0Q66Sc",
+              "price": "289.99",
+              "currency": "USD",
+              "availability": "Available",
+              "firstrecorded_at": 1520093200,
+              "lastrecorded_at": 1520093200,
+              "seller": "Target",
+              "isactive": 0
+            }
+          ],
+          "sku": "target_51242636",
+          "name": "target.com",
+          "recentoffers_count": 0
+        }
+      ],
+      "manufacturer": "Apple",
+      "name": "Refurbished Apple iPhone 6 16GB, Silver - Unlocked",
+      "ean": "0759776382420",
+      "features": {
+        "Cellular Network Technology": "GSM / CDMA",
+        "Features": "Wi-fi Ready Full Web Browsers Bluetooth Camera Dual Band Music Player GPS",
+        "Cell Phone Service Provider": "Unlocked",
+        "Mobile Operating System": "Apple iOS",
+        "Cell Phone Type": "Unlocked Cell Phones",
+        "Model Name": "iPhone 6",
+        "Screen Size": "4.7\\",
+        "Condition": "Refurbished",
+        "Assembled Product Dimensions (L x W x H)": "5.44 x 2.64 x 0.27 Inches"
+      },
+      "sem3_id": "0m99QjnZjQegqE4Cy8ii8E",
+      "images_total": 1,
+      "category": "Unlocked Phones",
+      "brand": "Apple",
+      "model": "IPHONE 6 16GB SILVER CRB , iPhone 6",
+      "created_at": 1478038395,
+      "updated_at": 1542326609,
+      "price": "169.83",
+      "images": [
+        "http://sem3-idn.s3-website-us-east-1.amazonaws.com/91558b0efc73072477b93998700b9a54,0.jpg"
+      ],
+      "upc": "759776382420",
+      "description": "Give yourself the connectivity and capabilities yo... (visit site URLs for full description)",
+      "cat_id": "9359",
+      "mpn": "IPHONE 6 16GB SILVER CRB",
+      "color": "Silver",
+      "variation_secondaryids": [
+        "12TjOaeqVySIY2aqoQK0cG"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "messages": [],
+      "gtins": [
+        "00759776382420"
+      ]
+    }
+  ],
+  "total_results_count": 100000
+}

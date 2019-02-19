@@ -1,0 +1,126 @@
+<!-- modal -->
+<div class="modal-content">
+   
+    <div class="container">
+     
+            <div>
+    
+                <div class="card hovercard">
+                    <div class="cardheader"  *ngIf="!editMode">
+    
+                    </div>
+                   <div class="avatar">
+                        <img alt="" src="../../assets/images/generic-avatar.png" *ngIf="!editMode">
+                      
+                    </div>
+                    <div class="info" >
+                        <div class="title">
+                            <a target="_blank" *ngIf="!editMode" href="https://scripteden.com/">{{user.firstName}} {{user.lastName}}</a>
+                       </div>
+                       
+                        <div *ngIf="!editMode">{{user.email}}</div>                        
+                    </div>
+                    <div class="bottom">
+                        <a class="btn btn-primary btn-twitter btn-sm" href="https://twitter.com/webmaniac" *ngIf="!editMode">
+                            <i class="fa fa-twitter"></i>
+                        </a>
+                        <a class="btn btn-danger btn-sm" rel="publisher"
+                           href="https://plus.google.com/+ahmshahnuralam" *ngIf="!editMode">
+                            <i class="fa fa-google-plus"></i>
+                        </a>
+                        <a class="btn btn-primary btn-sm" rel="publisher"
+                           href="https://plus.google.com/shahnuralam" *ngIf="!editMode">
+                            <i class="fa fa-facebook"></i>
+                        </a>
+                        <a class="btn btn-warning btn-sm" rel="publisher" href="https://plus.google.com/shahnuralam" *ngIf="!editMode">
+                            <i class="fa fa-behance"></i>
+                        </a>
+                    </div>
+                    
+                </div>
+    
+            </div>
+            <div *ngIf="editMode" class="outer-div" >
+                    <div *ngIf="editMode"  class="card hovercard inner-div" style="background:url(../../assets/images/generic-profilewallpaper.jpg) no-repeat center center; background-size: 370px 100px;height: 100px;">
+                            <file-drop headertext="Drop wallpaper here" (onFileDrop)="dropped($event)" 
+                            (onFileOver)="fileOver($event)" (onFileLeave)="fileLeave($event)">
+                                <span>Drag and Drop a WallPaper Picture Here</span>
+                            </file-drop>
+                     
+                        </div>
+                       <div class="xs-input-group-v2"  style="width: 100%;  margin: auto;">
+                               
+                                <input type="text" name="imageurl" id="xs_user_imageurl" class="xs-input-control" placeholder="Or Enter Wallpaper Image URL Here"  [(ngModel)]="user.imageurl" style="text-align:center;">
+                            </div>
+                       
+                        <div *ngIf="editMode"  class="avatar" style="background:url(../../assets/images/generic-avatar.png) no-repeat center center; background-size: 100px 100px; display: inline-block;">
+                                
+                                <file-drop headertext="Drop Profile picture here" (onFileDrop)="dropped($event)" 
+                                (onFileOver)="fileOver($event)" (onFileLeave)="fileLeave($event)" style="width: 100px; height: 100px;">
+                                   
+                                </file-drop>
+                            </div>
+
+                             <div class="xs-input-group-v2"  style="width: 100%;  margin: auto;">
+                                    
+                                    <input type="text" name="profileimageurl" id="xs_user_profileimageurl" class="xs-input-control" placeholder="Or Enter Profile Image URL Here"  [(ngModel)]="user.profileimageurl" style="text-align:center;">
+                                </div>
+                                <br>
+                                <label for="xs_user_email">Address Line 1:</label>
+                                <div class="xs-input-group-v2"  style="width: 100%;  margin: auto;">
+                                     
+                                  <input type="text" name="addressline1" [(ngModel)]="profile.addressline1" placeholder="Enter your Street Address" id="xs_address_line1" class="xs-input-control" style="text-align:center;">
+                                
+                                </div>
+                                <label for="xs_user_addressline2">Address Line 2:</label>
+                                <div class="xs-input-group-v2"  style="width: 100%;  margin: auto;">
+                                     
+                                  <input type="text" name="addressline2" [(ngModel)]="profile.addressline2" placeholder="Enter your Street Address" id="xs_address_line2" class="xs-input-control" style="text-align:center;">
+                                
+                                </div>
+                                <label for="xs_user_cityinfo">City, State, Zip</label>
+                                <div class="xs-input-group-v2"  style="width: 100%;  margin: auto;">
+                                     
+                                  <input type="text" name="addressline1" [(ngModel)]="profile.city" placeholder="Enter City" id="xs_address_line1" class="xs-input-control" style="text-align:center; float:left; width:33%;">
+                                  <input type="text" name="state" [(ngModel)]="profile.state" placeholder="Enter State" id="xs_address_state" class="xs-input-control" style="text-align:center; width:33%;">
+                                  <input type="string" name="zip" [(ngModel)]="profile.zip" placeholder="Enter ZipCode" id="xs_address_zip" class="xs-input-control" style="text-align:center; float:right;width:33%;">
+                                
+                                </div>
+
+                                <br>
+                                <label for="xs_user_cc">Credit Card:</label>
+                                <div class="xs-input-group-v2"  style="width: 100%;  margin: auto;">
+                                     
+                                  <input type="text" name="creditcard" [(ngModel)]="profile.ccnum" placeholder="Enter Credit Card Number" id="xs_cc" class="xs-input-control" style="text-align:center; width:33%;">
+
+                                <input type="text" name="creditcard" [(ngModel)]="profile.ccexpdate" placeholder="Enter Expiration Date" id="xs_cc" class="xs-input-control" style="text-align:center;width:33%;">
+                                <input type="text" name="creditcard" [(ngModel)]="profile.cccsc" placeholder="Enter Security Number" id="xs_cc" class="xs-input-control" style="text-align:center;width:33%;">
+                                  
+                                </div>
+
+                                <br>
+                                <label for="xs_profile_nickname">NickName</label>
+                                <div class="xs-input-group-v2"  style="width: 100%;  margin: auto;">
+                                     
+                                  <input type="text" name="nickname" [(ngModel)]="profile.nickname" placeholder="Enter your NickName" id="xs_profile_nickname" class="xs-input-control" style="text-align:center;">
+                                
+                                </div>
+
+                                <br>
+                                <label for="xs_profile_type">Profile Type</label>
+                                <table></table>
+                                <div class="xs-input-group-v2"  style="width: 100%;  margin: auto;">
+                                    <input type="checkbox"name="nickname" [(ngModel)]="profile.type" placeholder="Private" id="xs_profile_private" class="xs-input-control" >
+
+                                
+                                </div>
+                             
+              
+               
+               </div>
+             <img src="../../assets/images/edit.png" (click)="toggleEdit()" alt="" style="height: 25px;" *ngIf="!editMode">
+            <img src="../../../assets/images/save-icon.png" (click)="toggleEdit()" alt="" style="height: 45px;" *ngIf="editMode">
+                <img src="../../../assets/images/Cancel.png" (click)="toggleEdit()" alt="" style="height: 45px;" *ngIf="editMode">
+            
+    </div>
+  </div>

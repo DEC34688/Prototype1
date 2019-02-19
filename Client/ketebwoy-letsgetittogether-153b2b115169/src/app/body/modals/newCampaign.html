@@ -1,0 +1,191 @@
+<!-- modal -->
+<div class="modal-content">
+
+  <div class="container" style="text-align: center;">
+
+    <h1 style="text-align: center;">Create Campaign</h1>
+    <br>
+    <br>
+
+    <aw-wizard style="text-align: center;">
+      <aw-wizard-step stepTitle="Title / Type" style="
+                text-align: -webkit-center;">
+        <form>
+          <br><br>
+          <div class="row">
+            <div class="col-2">
+              <label for="xs_user_email">Title:</label>
+            </div>
+            <div class="col-10">
+              <input type="text" name="title" [(ngModel)]="campaignTitle" placeholder="Enter a Campaign Title" id="xs_address_line1"
+                class="form-control" style="text-align:center; width: 100%;">
+            </div>
+          </div>
+          <br>
+          <div>
+            <br>
+            <table>
+              <tr>
+                <td style="padding: 50px;">
+                  <input type="radio" name="campType" [(ngModel)]="campaignType" value="public" class="form-control">
+                  Public Campaign
+                </td>
+
+                <td style="padding: 50px;">
+                  <input type="radio" name="campType" [(ngModel)]="campaignType" value="private" class="form-control">
+                  Private Campaign
+                </td>
+              </tr>
+            </table>
+          </div>
+          <br>
+          <div>
+            <textarea *ngIf="campaignType == 'public'" style="width: 100%; height: 150px;  text-align: -webkit-center;"
+              class="form-control">
+                            public camapign disclaimer :
+                            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                       </textarea>
+
+            <textarea *ngIf="campaignType == 'private'" style="width: 100%; height: 150px; text-align: -webkit-center;"
+              class="form-control">
+                            private campaign disclaimer :
+                            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                       </textarea>
+          </div>
+
+        </form>
+        <br>
+        <button type="button" awNextStep>Next Step</button>
+
+      </aw-wizard-step>
+      <aw-wizard-step stepTitle="Theme" style="
+                text-align: -webkit-center;">
+        <form>
+
+          <label>Select a Theme</label>
+
+          <select name="themeSelect" #themeSelect ng-model="theme" (change)="changeTheme(themeSelect.value)">
+
+            <option value="charity">Charity</option>
+
+            <option value="backToSchool">Back to School</option>
+
+            <option value="electronics">Electronics</option>
+
+            <option value="retail">Retail</option>
+
+          </select><br>
+
+          <div class="col-12">
+            <img src="{{themePath}}">
+          </div>
+
+
+        </form>
+        <br>
+        <button type="button" awPreviousStep>Go to previous step</button>
+        <button type="button" awNextStep>Go to next step</button>
+      </aw-wizard-step>
+      <aw-wizard-step stepTitle="Funding Information">
+
+        <br>
+        <br>
+
+        <div class="row">
+          <div class="col-3">
+            <label for="xs_user_email">Start Date:</label>
+          </div>
+          <div class="col-9">
+            <input type="date" name="startDate" [(ngModel)]="startDate" placeholder="Enter Start Date" id="xs_startDate"
+              class="form-control" style="text-align:center; width: 100%;">
+          </div>
+        </div>
+        <br>
+        <div class="row">
+          <div class="col-3">
+            <label for="xs_user_email">End Date:</label>
+          </div>
+          <div class="col-9">
+            <input type="date" name="endDate" [(ngModel)]="endDate" placeholder="Enter Ending Date" id="xs_endDate"
+              class="form-control" style="text-align:center; width: 100%;">
+          </div>
+        </div>
+        <br>
+        <div class="row">
+          <div class="col-3">
+            <label for="xs_user_email">Funding Amount:</label>
+          </div>
+          <div class="col-9">
+            <input type="text" name="fundingAmount" placeholder="$0.00" id="xs_fundingAmount" class="form-control"
+              style="text-align:center; width: 100%;" [(ngModel)]="fundingAmount">
+          </div>
+        </div>
+        <br>
+        <div class="row">
+          <div class="col-3">
+            <label for="xs_user_email">Funding Product:</label>
+          </div>
+          <div class="col-9">
+            <input type="text" name="fundingProductURL" placeholder="Enter Product URL" id="xs_fundingAmount" class="form-control"
+              style="text-align:center; width: 100%;" [(ngModel)]="fundingProductURL">
+          </div>
+          </div>
+
+          <br>
+          <div class="row">
+            <div class="col-3">
+              <label for="xs_user_email">Funding Product Image URL:</label>
+            </div>
+            <div class="col-9">
+              <input type="text" name="fundingProductImageURL" placeholder="Enter Product Image URL" id="xs_fundingAmount"
+                class="form-control" style="text-align:center; width: 100%;" [(ngModel)]="fundingProductImageURL">
+              <br>
+              <img src="{{fundingProductImageURL}}">
+            </div>
+
+          </div>
+
+          <br>
+          <button type="button" awPreviousStep>Go to previous step</button>
+          <button type="button" awNextStep>Go to next step</button>
+      </aw-wizard-step>
+      <aw-wizard-step stepTitle="Booster Message">
+
+        <br>
+        <div class="form-group">
+          <label for="card-number">Campaign Booster Message</label>
+          <textarea style="width: 100%; height: 150px;  text-align: -webkit-center;"
+          class="form-control" [(ngModel)]="BoosterMessage">
+                        public camapign disclaimer :
+                        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                   </textarea>
+        </div>
+   
+
+   
+        <br>
+        <button type="button" awPreviousStep>Go to previous step</button>
+          <button type="button" awNextStep>Go to next step</button>
+      </aw-wizard-step>
+      <aw-wizard-step stepTitle="Thank you Message">
+
+        <br>
+        <div class="form-group">
+          <label for="card-number">Campaign Thank You Message</label>
+          <textarea style="width: 100%; height: 150px;  text-align: -webkit-center;"
+          class="form-control" [(ngModel)]="welcomeMessage">
+                        public camapign disclaimer :
+                        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+                   </textarea>
+        </div>
+   
+
+   
+        <br>
+        <button type="button" awPreviousStep>Previous Step</button>
+        <button type="button" (click)="saveCampaign()">Save </button>
+      </aw-wizard-step>
+    </aw-wizard>
+  
+  </div>
+</div>
